@@ -7,10 +7,9 @@
 1. [Course Syllabus](/notes/intro.md)
 1. Link to slack channel: https://cs114-su17.slack.com
 1. Invitation to slack channel: https://join.slack.com/t/cs114-su17/shared_invite/MjEzMDE3NDAxMzk5LTE0OTk5MjE0NzQtOGRkOWIxZjVlMA
-
 1. Link to online text: https://automatetheboringstuff.com/
-<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 1. [Homework](/notes/homework.md)
+<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 
 ## Terms List
 
