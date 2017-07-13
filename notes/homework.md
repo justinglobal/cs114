@@ -3,7 +3,7 @@
 1. Week 1
     - Read Introduction
     - Intro terms short definitions
-1. Week 2
+<!-- 1. Week 2
     - Read Chapter 1
     - Ch. 1 Problem Set
     - Ch. 1 terms
@@ -33,4 +33,4 @@
     - Quiz 2 NEXT WEEK!!
 1. Week 10
 1. Week 11
-1. Week 12
+1. Week 12 -->
