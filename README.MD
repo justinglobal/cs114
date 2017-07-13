@@ -5,9 +5,11 @@
 
 1. Welcome to programming!
 1. [Course Syllabus](/notes/intro.md)
-1. Link to slack channel: https://ai-cs114.slack.com/
+1. Link to slack channel: https://cs114-su17.slack.com
+1. Invitation to slack channel: https://join.slack.com/t/cs114-su17/shared_invite/MjEzMDE3NDAxMzk5LTE0OTk5MjE0NzQtOGRkOWIxZjVlMA
+
 1. Link to online text: https://automatetheboringstuff.com/
-1. [Cheat Sheet](/notes/mementopython3-english.pdf)
+<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 1. [Homework](/notes/homework.md)
 
 ## Terms List
@@ -19,7 +21,6 @@
 
 1. [Filesystem and Paths](/notes/filesystem.md)
 1. [Command Line Interface](/notes/cli.md)
-1. Keyboard Shortcuts
 1. Demo: [CLI](/demos/cli.md)
 1. Individual Practice: [CLI](/practice/cli.md)
 
@@ -28,7 +29,7 @@
 1. [Programming Philosophy](/notes/programming-philosophy.md)
 1. [Stored Program Computer](/notes/stored-program-computer.md)
 1. [Python](/notes/py.md)
-1. [Values and Types](/notes/py-values-types.md)
+<!-- 1. [Values and Types](/notes/py-values-types.md)
 1. [Operators and Expressions](/notes/py-operators-expressions.md)
 1. [Variables](/notes/py-variables.md)
 1. [Function Calling](/notes/py-functions-calling-basic.md)
@@ -86,7 +87,7 @@
 1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
 1. [Basic Objects and Classes](/notes/py-classes-basic.md)
 1. [Class Init](/notes/py-classes-init.md)
-1. [Modules](/notes/py-modules-create.md)
+1. [Modules](/notes/py-modules-create.md) -->
 
 ## Using Git
 
