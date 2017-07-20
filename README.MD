@@ -29,7 +29,7 @@
 1. [Programming Philosophy](/notes/programming-philosophy.md)
 1. [Stored Program Computer](/notes/stored-program-computer.md)
 1. [Python](/notes/py.md)
-<!-- 1. [Values and Types](/notes/py-values-types.md)
+1. [Values and Types](/notes/py-values-types.md)
 1. [Operators and Expressions](/notes/py-operators-expressions.md)
 1. [Variables](/notes/py-variables.md)
 1. [Function Calling](/notes/py-functions-calling-basic.md)
@@ -47,7 +47,7 @@
 1. [Basic Problem Solving](/notes/problem-solving-basic.md)
     Setup - Input - Transform - Output
 1. Demo: [Volume Converter](/demos/volume-converter.md)
-1. Group Practice: [Change Return](/practice/change-return.md)
+<!-- 1. Group Practice: [Change Return](/practice/change-return.md)
 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
 1. Individual Practice: [Madlib](/practice/madlib.md)
 1. [Booleans](/notes/py-booleans.md)
