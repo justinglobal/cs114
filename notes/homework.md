@@ -7,10 +7,10 @@
     - Read Chapter 1
     - Ch. 1 Problem Set
     - Ch. 1 terms
-<!-- 1. Week 3
+1. Week 3
     - Finish all assignments not completed!
     - Try installing python on your home computer
-1. Week 4
+<!-- 1. Week 4
     - Read Chapter 2
     - Define Ch. 2 terms
     - Ch. 2 Problem set #'s 1, 2, 4, 5, 6, 10, 11

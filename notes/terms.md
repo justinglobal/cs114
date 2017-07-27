@@ -70,7 +70,7 @@ call/pass
 
 argument
 
-<!-- ### Chapter 2
+### Chapter 2
 
 flow control statements
 
@@ -122,7 +122,7 @@ local/global variable
 
 exception
 
-### Chapter 4
+<!-- ### Chapter 4
 
 list
 
