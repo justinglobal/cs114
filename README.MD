@@ -48,7 +48,7 @@
     Setup - Input - Transform - Output
 1. Demo: [Volume Converter](/demos/volume-converter.md)
 1. Practice: [Change Return](/practice/change-return.md)
-<!-- 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
+1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
 1. Individual Practice: [Madlib](/practice/madlib.md)
 1. [Booleans](/notes/py-booleans.md)
 1. [Comparison Operators](/notes/py-operators-comparison.md)
@@ -58,7 +58,7 @@
 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 1. [Boolean Operators](/notes/py-operators-boolean.md)
 1. Demo: [Bool Game](/demos/bool-game.md)
-1. [For Loops](/notes/py-for-loops.md)
+<!-- 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
