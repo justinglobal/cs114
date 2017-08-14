@@ -100,7 +100,7 @@ standard library
 
 condition
 
-### Chapter 3
+<!-- ### Chapter 3
 
 function
 
@@ -122,7 +122,7 @@ local/global variable
 
 exception
 
-<!-- ### Chapter 4
+### Chapter 4
 
 list
 
