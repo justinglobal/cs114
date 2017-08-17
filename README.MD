@@ -65,7 +65,7 @@
 1. [Function Naming](/notes/naming-functions.md)
 1. [Function Docstrings](/notes/py-docstrings-function.md)
 1. [Functions as Structure](/notes/py-functions-structure.md)
-1. [Main Function](/notes/py-functions-main)
+1. [Main Function](/notes/py-functions-main.md)
 1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
 <!-- 1. [Lists](/notes/py-lists.md)
 1. [Sequence Operators](/notes/py-sequence-operators.md)
