@@ -23,12 +23,11 @@
 1. Week 5
     - Prepare for Quiz 1 - Quiz covers terms from intro, ch1 and ch2
     - Chapter 3 homework below due in 2 weeks
+1. Week 6
     - Read Chapter 3
     - Define Ch. 3 terms
     - Ch. 3 problem set #'s 1, 3, 7
-<!-- 1. Week 6
-    - No homework
-1. Week 7
+<!-- 1. Week 7
     - Do week 5 homework if you have not already.
 1. Week 8
     - Read Chapter 4
