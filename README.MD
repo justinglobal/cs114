@@ -60,6 +60,7 @@
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
+1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
 1. [Function Docstrings](/notes/py-docstrings-function.md)
