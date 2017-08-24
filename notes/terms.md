@@ -122,7 +122,7 @@ local/global variable
 
 exception
 
-<!-- ### Chapter 4
+### Chapter 4
 
 list
 
@@ -144,7 +144,7 @@ tuple
 
 list reference
 
-### Chapter 5
+<!-- ### Chapter 5
 
 dictionary
 

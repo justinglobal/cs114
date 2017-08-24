@@ -27,9 +27,11 @@
     - Read Chapter 3
     - Define Ch. 3 terms
     - Ch. 3 problem set #'s 1, 3, 7
-<!-- 1. Week 7
-    - Do week 5 homework if you have not already.
-1. Week 8
+1. Week 7
+    - Read Chapter 4
+    - Define Ch. 4 terms
+    - Ch. 4 Problem set #'s 1-11
+<!-- 1. Week 8
     - Read Chapter 4
     - Define Ch. 4 terms
     - Ch. 4 Problem set #'s 1-11

@@ -9,8 +9,8 @@
 1. Invitation to slack channel: https://join.slack.com/t/cs114-su17/shared_invite/MjEzMDE3NDAxMzk5LTE0OTk5MjE0NzQtOGRkOWIxZjVlMA
 1. Link to online text: https://automatetheboringstuff.com/
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
+1. [Cheat Sheet](/notes/mementopython3-english.pdf)
 1. [Homework](/notes/homework.md)
-<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 
 ## Terms List
 
@@ -67,12 +67,12 @@
 1. [Functions as Structure](/notes/py-functions-structure.md)
 1. [Main Function](/notes/py-functions-main.md)
 1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
-<!-- 1. [Lists](/notes/py-lists.md)
+1. [Lists](/notes/py-lists.md)
 1. [Sequence Operators](/notes/py-sequence-operators.md)
 1. [Optional and Keyword Arguments](/notes/py-functions-calling-optional.md)
 1. [Calling Type Methods](/notes/py-type-methods-calling.md)
 1. [Standard Library Docs](/notes/py-standard-library-docs.md)
-1. [Basic String Methods](/notes/py-string-methods-basic.md)
+<!-- 1. [Basic String Methods](/notes/py-string-methods-basic.md)
 1. [String Formatting](/notes/py-string-format.md)
 1. Demo: [Phone Number](/demos/phone-number.md)
 1. Practice: [Magic 8 Ball redux](/practice/magic8ball-list.md)
