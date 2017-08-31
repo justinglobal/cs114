@@ -6,7 +6,7 @@ A **list** is a value that is an ordered, 0-indexed, mutable, sequence of inner 
 They are written out literally using square brackets `[]` and a comma-separated list of values.
 
 ```py
-['David', 'Helen', 'Mel']
+['Justin', 'Helen', 'Mel']
 [2, 4, 5]
 [[1, -1], [2, -2]]
 []
