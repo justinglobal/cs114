@@ -31,11 +31,10 @@
     - Read Chapter 4
     - Define Ch. 4 terms
     - Ch. 4 Problem set #'s 1-11
-<!-- 1. Week 8
-    - Read Chapter 4
-    - Define Ch. 4 terms
-    - Ch. 4 Problem set #'s 1-11
-1. Week 9
+1. Week 8
+    - Read Chapter 5
+    - Define Ch. 5 terms
+<!-- 1. Week 9
     - Read Chapter 5
     - Define Ch. 5 terms
     - Quiz 2 NEXT WEEK!!
