@@ -34,10 +34,8 @@
 1. Week 8
     - Read Chapter 5
     - Define Ch. 5 terms
-<!-- 1. Week 9
-    - Read Chapter 5
-    - Define Ch. 5 terms
+1. Week 9
     - Quiz 2 NEXT WEEK!!
-1. Week 10
+<!-- 1. Week 10
 1. Week 11
 1. Week 12 -->
