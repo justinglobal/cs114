@@ -9,7 +9,7 @@
 1. Invitation to slack channel: https://join.slack.com/t/cs114-fa17/shared_invite/enQtMjUwNTEwOTE2MTQ1LWYzMDU2ZDg5NmJmNmEyMDViNWQzNWI5ZDY1NzI4NjZmNTYwYTE0NDI5OTU1NGIzYzVhNzlkNjIxMWE2YWJiYzg
 1. Link to online text: https://automatetheboringstuff.com/
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
-1. [Cheat Sheet](/notes/mementopython3-english.pdf)
+<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 1. [Homework](/notes/homework.md)
 
 ## Terms List

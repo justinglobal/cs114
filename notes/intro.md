@@ -1,10 +1,10 @@
 ### Course Name and Number: CS114 section A Logical Thought & Programming
 
-### Course Syllabus – Summer 2017
+### Course Syllabus – Fall 2017
 
-### Meeting Times and Location: Thursdays 1PM – 5PM in computer lab 203
+### Meeting Times and Location: Wednesdays in computer lab 203 - 8am-12pm
 
-### FINAL EXAM:  9/18/17 - Monday - 2:45 - 4:45 pm - Room 203
+### FINAL EXAM:  92/13 - Wednesday 8:00 - 10:00 am
 
 Instructor Name: Justin Epperly
 
@@ -55,12 +55,42 @@ Students will acquire materials and supplies as needed.
 
 ### Holidays (school closed):
 
-WEEK 9
-Monday, September 4 (Labor Day) – School Closed
+WEEK 6
+Friday, November 10 (Veterans Day) – School Closed
+
+WEEK 8
+Thursday, November 23 (Thanksgiving Day) – School Closed
+Friday, November 24 (Day after Thanksgiving Day) – School Closed
 
 ### Important Dates:
 
-WEEK 1Monday (7/10/2017):				Summer I BeginsFriday (7/14/2017):				Graduation Application due for SU’17 GradsWEEK 2Tuesday (7/18/2017):  		Last day of Schedule Adjustment PeriodWEEK 6Thursday (8/17/2017): 		Summer II Mid-Quarter BeginsWEEK 7Monday (8/21/2017):				Fall 2017 Registration BeginsMonday (8/21/2017):				Last day of Schedule Adjustment Period for Mid-quarterWEEK 9Tuesday (9/5/2017):				IDEA Survey Begins (selected classes)Friday (9/8/2017):     		Last day to Drop with a “W”WEEK 10Friday (9/15/2017):     	Last day to submit Incomplete Grade formWEEK 11Monday (9/18/2017):  			Finals beginFriday (9/22/2017):     	Last day for Grads to submit Diploma Clearance Form for the FA termFriday (9/22/2017):     	Portfolio ShowSaturday (9/23/2017): 		Quarter Ends
+WEEK 1
+Monday (10/2/2017):			  Fall I Begins
+Friday (10/6/2017):			  Graduation Application due for FA’17 Grads
+
+WEEK 2
+Tuesday (10/10/2017):			Last day of Schedule Adjustment Period
+
+WEEK 6
+Thursday (11/9/2017):			Fall II Mid-Quarter Begins
+
+WEEK 7
+Monday (11/13/2017):			Winter 2017 Registration Begins
+Monday (11/13/2017):			Last day of Schedule Adjustment Period for Mid-quarter
+
+WEEK 9
+Monday (11/27/2017):			IDEA Survey Begins (selected classes)
+Friday (12/1/2017):				Last day to Drop with a “W”
+
+WEEK 10
+Friday (12/8/2017):     	Last day to submit Incomplete Grade form
+
+WEEK 11
+Monday (12/11/2017):  		Finals begin
+Friday (12/15/2017):     	Last day for Grads to submit Diploma Clearance Form for the FA term
+Friday (12/15/2017):     	Portfolio Show
+Saturday (12/16/2017): 		Quarter Ends
+
 
 ### Labeling Assignments
 All projects must be turned in with the following information: name, contact information, course/section, instructor, term/date, project/assignment.
@@ -167,85 +197,84 @@ Note: Additional homework and quizzes may be added according to the needs of the
 See "Homework" link for updated homework assignments: https://github.com/justinglobal/CS114_SP17/blob/master/notes/homework.md
 
 
-Week 1  
-7/13
-Course introduction. CPU basics. Programming philosophy. Final project overview.  
-Python introduction.  
-Homework: Read Introduction  
+Week 1
+10/4
+Course introduction. CPU basics. Programming philosophy. Final project overview.
+Python introduction.
+Homework: Read Introduction, Intro Terms
 
-Week 2  
-7/20  
-Python introduction continued.  
-Python Basics: Integers, floats, string data types.  
-Variables. Command line usage.  
-Version control and Git  
-Homework: Read Ch. 1  
-Ch. 1 problem set.  
+Week 2
+10/11
+Python introduction continued.
+Python Basics: Integers, floats, string data types.
+Variables. Command line usage.
+Version control and Git
+Homework: Read Ch. 1
+Ch. 1 problem set.
 
-Week 3  
-7/27  
-Python Basics part 2: Operators and Expressions, Function calling.  
-Python documentation.  
-Homework: Read Ch. 2  
-Ch. 2 problem set.  
+Week 3
+10/18
+Python Basics part 2: Operators and Expressions, Function calling.
+Python documentation.
+Homework: Read Ch. 2
+Ch. 2 problem set.
 
-Week 4  
-8/3  
+Week 4
+10/25
 Flow Control: Booleans, Comparison Operators, if/else/elif, Loops
-Importing modules.  
-List data type.  
-Homework: Read Ch. 3  
-Prepare for Quiz 1  
-Ch. 3 problem set.  
+Importing modules.
+List data type.
+Homework: Read Ch. 3
+Prepare for Quiz 1
+Ch. 3 problem set.
 
-Week 5  
-8/10  
-Functions: Interfaces and scope. Main function. Function naming.   Docstrings. Functions as structure.  
-Final project discussion.  
-Quiz 1  
-Homework: Read Ch. 4  
-Ch. 4 problem set.  
+Week 5
+11/1
+Functions: Interfaces and scope. Main function. Function naming. Docstrings. Functions as structure.
+Final project discussion.
+Quiz 1
+Homework: Read Ch. 4
+Ch. 4 problem set.
 
-Week 6  
-8/17  
-Lists: Getting values. List comprehensions. Slices and other operations on lists.  
-List methods.  
-Project proposal due  
-Homework: Read Ch. 5  
-Ch. 5 problem set.  
+Week 6
+11/8
+Lists: Getting values. List comprehensions. Slices and other operations on lists.
+List methods.
+Project proposal due
+Homework: Read Ch. 5
+Ch. 5 problem set.
 
-Week 7  
-8/24  
+Week 7
+11/15
 Dictionaries and Structuring Data: Data type review. Dictionaries, lists.
-Dictionary methods.  
-Homework: Read Ch. 6  
-Ch. 6 problem set.  
+Dictionary methods.
+Homework: Read Ch. 6
+Ch. 6 problem set.
 
-Week 8  
-8/31  
+Week 8
+11/22
 String manipulation: Working with string data. Indexing and slicing.
-String methods.  
-Homework: Final project  
-Prepare for quiz  
+String methods.
+Homework: Final project
+Prepare for quiz
 
-Week 9  
-9/7
+Week 9
+11/29
 Automation topics: Reading and writing files. Making a complete program.
-Working with files and graphics.  
-Project workshop.  
-Quiz 2  
+Working with files and graphics.
+Project workshop.
+Quiz 2
 
-Homework: Final project  
+Homework: Final project
 
-Week 10  
-9/14  
-Advanced topics: Graphics, web scraping, software development.  
-Project workshop.  
-Homework: Final project  
+Week 10
+12/6
+Advanced topics: Graphics, web scraping, software development.
+Project workshop.
+Homework: Final project
 
-Week 11  
-6/21  
-Final Project Presentations (Monday 2:45-4:45)  
-
+Week 11
+12/13
+Final Project Presentations (Wednesday 8-10am)
 
 *This course calendar is subject to revision based on the needs of the class as determined by the instructor.
