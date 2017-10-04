@@ -3,7 +3,7 @@
 1. Week 1
     - Read Introduction
     - Intro terms short definitions
-1. Week 2
+<!-- 1. Week 2
     - Read Chapter 1
     - Ch. 1 Problem Set
     - Ch. 1 terms
@@ -20,7 +20,7 @@
     - Define Ch. 2 terms
     - Ch. 2 Problem set #'s 1, 2, 4, 5, 6, 10, 11
     - Prepare for Quiz 1 - Quiz covers terms from intro, ch1 and ch2 -->
-1. Week 5
+<!-- 1. Week 5
     - Prepare for Quiz 1 - Quiz covers terms from intro, ch1 and ch2
     - Chapter 3 homework below due in 2 weeks
 1. Week 6
@@ -35,7 +35,7 @@
     - Read Chapter 5
     - Define Ch. 5 terms
 1. Week 9
-    - Quiz 2 NEXT WEEK!!
+    - Quiz 2 NEXT WEEK!! -->
 <!-- 1. Week 10
 1. Week 11
 1. Week 12 -->
