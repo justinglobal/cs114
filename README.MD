@@ -28,7 +28,7 @@
 
 1. [Programming Philosophy](/notes/programming-philosophy.md)
 1. [Stored Program Computer](/notes/stored-program-computer.md)
-1. [Python](/notes/py.md)
+<!-- 1. [Python](/notes/py.md)
 1. [Values and Types](/notes/py-values-types.md)
 1. [Operators and Expressions](/notes/py-operators-expressions.md)
 1. [Variables](/notes/py-variables.md)
@@ -89,7 +89,7 @@
 1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
 1. [Basic Objects and Classes](/notes/py-classes-basic.md)
 1. [Class Init](/notes/py-classes-init.md)
-1. [Modules](/notes/py-modules-create.md)
+1. [Modules](/notes/py-modules-create.md) -->
 
 ## Using Git
 
