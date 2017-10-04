@@ -24,7 +24,7 @@ interactive shell
 
 stack overflow
 
-<!-- ### Chapter 1
+### Chapter 1
 
 expression
 
@@ -70,7 +70,7 @@ call/pass
 
 argument
 
-### Chapter 2
+<!-- ### Chapter 2
 
 flow control statements
 
