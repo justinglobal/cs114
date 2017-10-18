@@ -38,6 +38,7 @@
 1. [Basic Casting](/notes/py-casting.md)
 1. [Terminal IO](/notes/py-io-terminal.md)
 1. Demo: [Greeting](/demos/greeting.md)
+1. Practice: [Space Dungeon Intro](/practice/spacedungeon-01.md)
 1. [Comments](/notes/py-comments.md)
 1. [Basic Variable Naming](/notes/naming-variables-basic.md)
 1. [Python Style](/notes/py-style.md)
