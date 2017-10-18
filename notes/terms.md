@@ -70,7 +70,7 @@ call/pass
 
 argument
 
-<!-- ### Chapter 2
+### Chapter 2
 
 flow control statements
 
@@ -100,7 +100,7 @@ standard library
 
 condition
 
-### Chapter 3
+<!-- ### Chapter 3
 
 function
 
