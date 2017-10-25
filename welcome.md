@@ -1,11 +1,13 @@
 Welcome to class!
 
-Week 3 - cs114
+Week 4 - cs114
 
-python
+Everyone relax
 
 Open class github, Terminal, Slack, online textbook, and Atom
 
 class github: github.com/justinglobal/cs114
 
-prepare for practice exercise
+Do the following exercises:
+Demo - Volume Converter
+Practice - Change Return
