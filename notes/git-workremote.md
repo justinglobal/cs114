@@ -24,6 +24,8 @@ git clone https://github.com/YOUR-GITHUB-USERNAME-HERE/cs114.git
 
 Git will copy the cs114 directory into the Desktop.
 
+Use 'cd' to change directories into the new cs114 folder you just created.
+
 Now we need to initialize a new git _locally_ on the computer you are using, with this command:
 
 ```bash
