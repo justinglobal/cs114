@@ -58,9 +58,9 @@
 1. [Continuations](/notes/py-continuations.md)
 <!-- 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
-1. [Boolean Operators](/notes/py-operators-boolean.md)
+1. [Boolean Operators](/notes/py-operators-boolean.md)  -->
 1. Demo: [Bool Game](/demos/bool-game.md)
-1. [For Loops](/notes/py-for-loops.md)
+<!-- 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
@@ -90,7 +90,7 @@
 1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
 1. [Basic Objects and Classes](/notes/py-classes-basic.md)
 1. [Class Init](/notes/py-classes-init.md)
-1. [Modules](/notes/py-modules-create.md) -->
+1. [Modules](/notes/py-modules-create.md) --> -->
 
 ## Using Git
 
