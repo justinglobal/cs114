@@ -9,13 +9,14 @@
 1. Invitation to slack channel: https://join.slack.com/t/cs114-fa17/shared_invite/enQtMjUwNTEwOTE2MTQ1LWYzMDU2ZDg5NmJmNmEyMDViNWQzNWI5ZDY1NzI4NjZmNTYwYTE0NDI5OTU1NGIzYzVhNzlkNjIxMWE2YWJiYzg
 1. Link to online text: https://automatetheboringstuff.com/
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
-<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 1. [Homework](/notes/homework.md)
+<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
+
 
 ## Terms List
 
 1. [List of terms](/notes/terms.md)
-<!-- 1. [Quiz 1 study guide](/notes/quiz1.md) -->
+[Quiz 1 study guide](/notes/quiz1.md)
 
 ## Terminal Use
 
@@ -54,12 +55,12 @@
 1. [Booleans](/notes/py-booleans.md)
 1. [Comparison Operators](/notes/py-operators-comparison.md)
 1. [Advanced Assignment](/notes/py-assignment-adv.md)
-1. [Branching and Blocks](/notes/py-branching-blocks.md)
+1. [if/elif/else and Blocks](/notes/py-if-elif-else-blocks.md)
 1. [Continuations](/notes/py-continuations.md)
-<!-- 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
-1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
-1. [Boolean Operators](/notes/py-operators-boolean.md)  -->
-1. Demo: [Bool Game](/demos/bool-game.md)
+1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
+<!-- 1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
+1. [Boolean Operators](/notes/py-operators-boolean.md)
+1. Demo: [Bool Game](/demos/bool-game.md) -->
 <!-- 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
 1. [Functions](/notes/py-functions-defining.md)
