@@ -61,7 +61,7 @@
 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 1. [Boolean Operators](/notes/py-operators-boolean.md)
 1. Demo: [Bool Game](/demos/bool-game.md)
-1. [For Loops](/notes/py-for-loops.md)
+1. [While and For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
 <!-- 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
