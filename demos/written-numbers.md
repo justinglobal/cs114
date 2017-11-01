@@ -20,4 +20,4 @@ tens = num // 10
 ones = num % 10
 ```
 
-<!-- [Source](/demos/written-numbers.py) -->
+[Source](/demos/written-numbers.py)
