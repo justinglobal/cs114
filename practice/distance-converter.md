@@ -13,7 +13,9 @@ Then print out the conversion as below.
 > km
 > 100 mi is 160.93440000000115 km
 
-Support converting between `mi`, `km`, `ft`, and `m`.
+Start with converting Miles to Kilometers first.
+
+Then, support converting between `mi`, `km`, `ft`, and `m`.
 
 ## Advanced
 
