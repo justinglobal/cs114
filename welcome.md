@@ -1,13 +1,12 @@
 Welcome to class!
 
-Week 4 - cs114
+Week 5 - cs114
 
-Everyone relax
+Last night was Halloween.
 
 Open class github, Terminal, Slack, online textbook, and Atom
 
 class github: github.com/justinglobal/cs114
 
-Do the following exercises:
-Demo - Volume Converter
-Practice - Change Return
+Do the following exercise:
+30. Practice magic-8ball-v1
