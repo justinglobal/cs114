@@ -16,7 +16,7 @@
 ## Terms List
 
 1. [List of terms](/notes/terms.md)
-[Quiz 1 study guide](/notes/quiz1.md)
+<!-- [Quiz 1 study guide](/notes/quiz1.md) -->
 
 ## Terminal Use
 

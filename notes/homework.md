@@ -11,7 +11,7 @@
     - Read Chapter 2
     - Define Ch. 2 terms
     - Ch. 2 Problem set #'s 1, 2, 4, 5, 6, 10, 11
-1. 1. Week 4
+1. Week 4
     - Finish all assignments not completed!
     - It's too nice out for homework
 - Try installing python on your home computer
