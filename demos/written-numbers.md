@@ -14,9 +14,10 @@ Hint 2: Make it work for regular combinations (like "forty-five") greater than 1
 
 Hint 3: Use floor division (//) and modulo (%) to separate your digits, like this:
 
+```py
 tens = num // 10
 
 ones = num % 10
-
+```
 
 <!-- [Source](/demos/written-numbers.py) -->
