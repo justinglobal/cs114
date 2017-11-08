@@ -35,6 +35,21 @@ o
 n
 ```
 
+This can be done with the range() function as well:
+
+```py
+for thing in range(5):
+    print("I have ", thing, " things")
+```
+will output
+```py
+I have  0  things
+I have  1  things
+I have  2  things
+I have  3  things
+I have  4  things
+```
+
 Most often you will see it used on groups of data like lists, which we will cover later.
 
 ```py
