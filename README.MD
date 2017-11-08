@@ -63,12 +63,13 @@
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [While and For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
+1. Practice: [Space Dungeon Part 2](/practice/spacedungeon-02.md)
 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
 1. [Function Docstrings](/notes/py-docstrings-function.md)
 1. [Functions as Structure](/notes/py-functions-structure.md)
-<!-- 1. [Main Function](/notes/py-functions-main.md)
-1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
+1. [Main Function](/notes/py-functions-main.md)
+<!-- 1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
 1. Practice: [Magic 8-ball v2 - Functions](/practice/magic8ball-v2-func.md)
 1. [Lists](/notes/py-lists.md)
 1. [Sequence Operators](/notes/py-sequence-operators.md)
@@ -91,7 +92,7 @@
 1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
 1. [Basic Objects and Classes](/notes/py-classes-basic.md)
 1. [Class Init](/notes/py-classes-init.md)
-1. [Modules](/notes/py-modules-create.md) --> -->
+1. [Modules](/notes/py-modules-create.md) -->
 
 ## Using Git
 
