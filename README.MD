@@ -70,6 +70,7 @@
 1. [Functions as Structure](/notes/py-functions-structure.md)
 1. [Main Function](/notes/py-functions-main.md)
 1. Practice: [Magic 8-ball v2 - Functions](/practice/magic8ball-v2-func.md)
+1. Practice: [Space Dungeon refactor](/practice/spacedungeon03-functions.md)
 1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
 1. [Lists](/notes/py-lists.md)
 1. [Sequence Operators](/notes/py-sequence-operators.md)
