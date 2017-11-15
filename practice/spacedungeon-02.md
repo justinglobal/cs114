@@ -21,4 +21,4 @@ Advanced: Make the program deduct a random number of mp and hp for each spell an
 
 Advanced 2: Combine this program with your previous Space Dungeon program.
 
-<!-- [Source](/practice/spacedungeon-02.py) -->
+[Source](/practice/spacedungeon-02.py)
