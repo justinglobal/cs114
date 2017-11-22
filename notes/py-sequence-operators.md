@@ -73,7 +73,7 @@ It only checks single values and containment at the _top level_.
 
 ```py
 4 in [2, 4, 6]  #> True
-'s' in 'David'  #> True
+'s' in 'Justin'  #> True
 's' in ['Justin']  #> False
 [2, 4] in [2, 4, 6]  #> False
 ```
