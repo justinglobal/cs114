@@ -1,14 +1,19 @@
 Welcome to class!
 
-Week 6 - cs114
+Week 7 - cs114
 
-Quiz today
+Thankful for Python
 
 Open class github, Terminal, Slack, online textbook, and Atom
 
 class github: github.com/justinglobal/cs114
 
-Work on all exercises not completed.
+Opening exercise - Space Dungeon random enemies:
+
+Make program uses a List of 4 or more enemies your character might encounter in the space dungeon game, write a function that chooses a random enemy from the list and prints the enemy name for the user.
+
+Save your program as spacedungeon-random-enemy.py
+
 
 https://en.wikipedia.org/wiki/Opcode
 https://en.wikipedia.org/wiki/Instruction_set_architecture
