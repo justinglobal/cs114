@@ -10,7 +10,7 @@
 1. Link to online text: https://automatetheboringstuff.com/
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
 1. [Homework](/notes/homework.md)
-<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
+1. [Cheat Sheet](/notes/mementopython3-english.pdf)
 
 
 ## Terms List
