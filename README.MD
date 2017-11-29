@@ -81,7 +81,7 @@
 1. [String Formatting](/notes/py-string-format.md)
 1. Demo: [Phone Number](/demos/phone-number.md)
 1. Practice: [Magic 8 Ball v3 Lists](/practice/magic8ball-list.md)
-<!-- 1. [If Expressions](/notes/py-if-expressions.md)
+1. [If Expressions](/notes/py-if-expressions.md)
 1. [List Comprehensions](/notes/py-lists-comprehensions.md)
 1. [Mutability](/notes/mutability.md)
 1. [Tuples](/notes/py-tuples.md)
