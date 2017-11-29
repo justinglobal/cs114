@@ -4,7 +4,7 @@
 
 ### Meeting Times and Location: Wednesdays in computer lab 203 - 8am-12pm
 
-### FINAL EXAM:  92/13 - Wednesday 8:00 - 10:00 am
+### FINAL EXAM:  12/13 - Wednesday 8:00 - 10:00 am
 
 Instructor Name: Justin Epperly
 
