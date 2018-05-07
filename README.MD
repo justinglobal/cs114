@@ -1,5 +1,6 @@
 # Ai Portland CS114 Online Syllabus
 
+## Welcome to programming!
 
 ## Intro
 
