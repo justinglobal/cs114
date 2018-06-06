@@ -83,6 +83,7 @@
 1. Demo: [Phone Number](/demos/phone-number.md)
 1. Practice: [Magic 8 Ball v3 Lists](/practice/magic8ball-list.md)
 1. Practice 2: [Last join](/practice/last-join.md)
+1. Practice 3: [Case number lookup](/practice/case-numbers.md)
 1. [If Expressions](/notes/py-if-expressions.md)
 1. [List Comprehensions](/notes/py-lists-comprehensions.md)
 1. [Mutability](/notes/mutability.md)
