@@ -2,8 +2,8 @@
 
 1. Week 1
     - Read Introduction
-    - Intro terms short definitions
-1. Week 2
+    - Short definition for Intro terms
+<!-- 1. Week 2
     - Read Chapter 1
     - Ch. 1 Problem Set
     - Ch. 1 terms
@@ -32,6 +32,6 @@
 1. Week 9
     - Quiz 2 NEXT WEEK!!
 1. Week 10
-    - Final Project workshop
+    - Final Project workshop -->
 <!-- 1. Week 11
 1. Week 12 -->
