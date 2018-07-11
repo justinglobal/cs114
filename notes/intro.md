@@ -1,10 +1,10 @@
 ### Course Name and Number: CS114 section A Logical Thought & Programming
 
-### Course Syllabus – Fall 2017
+### Course Syllabus – Summer 2018
 
-### Meeting Times and Location: Wednesdays in computer lab 203 - 8am-12pm
+### Meeting Times and Location: Wednesdays in computer lab 203 - 1-5pm
 
-### FINAL EXAM:  12/13 - Wednesday 8:00 - 10:00 am
+### FINAL EXAM:  Wednesday, 9/19/2018 12:30pm - 2:30pm
 
 Instructor Name: Justin Epperly
 
@@ -32,7 +32,7 @@ At the successful conclusion of this course, the student should be able to:
 Prerequisites: CS105 or ADD approval
 
 ### Course Length
-Monday, July 10, 2017, to Saturday, September 23, 2017.
+Monday, July 9, 2018, to Saturday, September 22, 2018.
 
 ### Contact Hours
 32-42
@@ -55,41 +55,38 @@ Students will acquire materials and supplies as needed.
 
 ### Holidays (school closed):
 
-WEEK 6
-Friday, November 10 (Veterans Day) – School Closed
-
-WEEK 8
-Thursday, November 23 (Thanksgiving Day) – School Closed
-Friday, November 24 (Day after Thanksgiving Day) – School Closed
+WEEK 9
+Monday, September 3 (Labor Day) – School Closed
 
 ### Important Dates:
 
 WEEK 1
-Monday (10/2/2017):			  Fall I Begins
-Friday (10/6/2017):			  Graduation Application due for FA’17 Grads
+Monday (7/9/2018):		    Summer I Begins
+Friday (7/13/2018):     	Graduation Application due for SU’18 Grads
 
 WEEK 2
-Tuesday (10/10/2017):			Last day of Schedule Adjustment Period
+Monday (7/16/2018):  		  Last day of Schedule Adjustment Period
 
 WEEK 6
-Thursday (11/9/2017):			Fall II Mid-Quarter Begins
+Thursday (8/16/2018): 		Summer II Mid-Quarter Begins
 
 WEEK 7
-Monday (11/13/2017):			Winter 2017 Registration Begins
-Monday (11/13/2017):			Last day of Schedule Adjustment Period for Mid-quarter
+Monday (8/20/2018):		    Fall 2018 Registration Begins
+Monday (8/20/2018):		    Last day of Schedule Adjustment Period for Mid-quarter
 
 WEEK 9
-Monday (11/27/2017):			IDEA Survey Begins (selected classes)
-Friday (12/1/2017):				Last day to Drop with a “W”
+Tuesday (9/4/2018):		    IDEA Survey Begins (selected classes)
+Friday (9/7/2018):     		Last day to Drop with a “W”
 
 WEEK 10
-Friday (12/8/2017):     	Last day to submit Incomplete Grade form
+Friday (9/14/2018):     	Last day to submit Incomplete Grade form
 
 WEEK 11
-Monday (12/11/2017):  		Finals begin
-Friday (12/15/2017):     	Last day for Grads to submit Diploma Clearance Form for the FA term
-Friday (12/15/2017):     	Portfolio Show
-Saturday (12/16/2017): 		Quarter Ends
+Monday (9/17/2018):  		  Finals begin
+Friday (9/21/2018):     	Last day for Grads to submit Diploma Clearance Form for the FA term
+Friday (9/21/2018):     	Portfolio Show
+Saturday (9/22/2018): 		Quarter Ends
+
 
 
 ### Labeling Assignments
@@ -198,13 +195,11 @@ See "Homework" link for updated homework assignments: https://github.com/justing
 
 
 Week 1
-10/4
 Course introduction. CPU basics. Programming philosophy. Final project overview.
 Python introduction.
 Homework: Read Introduction, Intro Terms
 
 Week 2
-10/11
 Python introduction continued.
 Python Basics: Integers, floats, string data types.
 Variables. Command line usage.
@@ -213,14 +208,12 @@ Homework: Read Ch. 1
 Ch. 1 problem set.
 
 Week 3
-10/18
 Python Basics part 2: Operators and Expressions, Function calling.
 Python documentation.
 Homework: Read Ch. 2
 Ch. 2 problem set.
 
 Week 4
-10/25
 Flow Control: Booleans, Comparison Operators, if/else/elif, Loops
 Importing modules.
 List data type.
@@ -229,7 +222,6 @@ Prepare for Quiz 1
 Ch. 3 problem set.
 
 Week 5
-11/1
 Functions: Interfaces and scope. Main function. Function naming. Docstrings. Functions as structure.
 Final project discussion.
 Quiz 1
@@ -237,7 +229,6 @@ Homework: Read Ch. 4
 Ch. 4 problem set.
 
 Week 6
-11/8
 Lists: Getting values. List comprehensions. Slices and other operations on lists.
 List methods.
 Project proposal due
@@ -245,21 +236,18 @@ Homework: Read Ch. 5
 Ch. 5 problem set.
 
 Week 7
-11/15
 Dictionaries and Structuring Data: Data type review. Dictionaries, lists.
 Dictionary methods.
 Homework: Read Ch. 6
 Ch. 6 problem set.
 
 Week 8
-11/22
 String manipulation: Working with string data. Indexing and slicing.
 String methods.
 Homework: Final project
 Prepare for quiz
 
 Week 9
-11/29
 Automation topics: Reading and writing files. Making a complete program.
 Working with files and graphics.
 Project workshop.
@@ -268,13 +256,11 @@ Quiz 2
 Homework: Final project
 
 Week 10
-12/6
 Advanced topics: Graphics, web scraping, software development.
 Project workshop.
 Homework: Final project
 
 Week 11
-12/13
 Final Project Presentations (Wednesday 8-10am)
 
 *This course calendar is subject to revision based on the needs of the class as determined by the instructor.

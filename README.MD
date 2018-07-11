@@ -6,12 +6,12 @@
 
 1. Welcome to programming!
 1. [Course Syllabus](/notes/intro.md)
-1. Link to slack channel: https://cs114-fa17.slack.com
-1. Invitation to slack channel: https://join.slack.com/t/cs114-fa17/shared_invite/enQtMjUwNTEwOTE2MTQ1LWYzMDU2ZDg5NmJmNmEyMDViNWQzNWI5ZDY1NzI4NjZmNTYwYTE0NDI5OTU1NGIzYzVhNzlkNjIxMWE2YWJiYzg
+1. Link to slack channel: https://cs114-su2018.slack.com
+1. Invitation to slack channel: https://join.slack.com/t/cs114-su2018/shared_invite/enQtMzk2ODM4MDc4NzIyLTM0N2RlMDVlMzIxOTRmOWE5MjUxOWUzMjZkNjg1MjhhOTZkYTg5MTY1ZjRlM2E3MDc4ZjFkOGRmNjVmNTM2YmQ
 1. Link to online text: https://automatetheboringstuff.com/
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
 1. [Homework](/notes/homework.md)
-1. [Cheat Sheet](/notes/mementopython3-english.pdf)
+<!-- 1. [Cheat Sheet](/notes/mementopython3-english.pdf) -->
 
 
 ## Terms List
@@ -41,7 +41,7 @@
 1. [Terminal IO](/notes/py-io-terminal.md)
 1. Demo: [Greeting](/demos/greeting.md)
 1. Practice: [Space Dungeon Intro](/practice/spacedungeon-01.md)
-1. [Comments](/notes/py-comments.md)
+<!-- 1. [Comments](/notes/py-comments.md)
 1. [Basic Variable Naming](/notes/naming-variables-basic.md)
 1. [Python Style](/notes/py-style.md)
 1. [Module Docstrings](/notes/py-docstrings-module.md)
@@ -83,20 +83,21 @@
 1. Demo: [Phone Number](/demos/phone-number.md)
 1. Practice: [Magic 8 Ball v3 Lists](/practice/magic8ball-list.md)
 1. Practice 2: [Last join](/practice/last-join.md)
-1. Practice 3: [Case number lookup](/practice/case-numbers.md)
+1. Practice 3: [Case numbers](/practice/case-numbers.md)
 1. [If Expressions](/notes/py-if-expressions.md)
 1. [List Comprehensions](/notes/py-lists-comprehensions.md)
 1. [Mutability](/notes/mutability.md)
 1. [Tuples](/notes/py-tuples.md)
 1. [Sequence Functions](/notes/py-sequence-funcs.md)
 1. [Dicts](/notes/py-dicts.md)
+1. Practice 3: [Case number lookup with dictionary](/practice/case-numbers-dict.md)
 1. [Sets](/notes/py-sets.md)
 1. [Sorting](/notes/sorting.md)
 1. [Advanced Variable Naming](/notes/naming-variables-adv.md)
 1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
 1. [Basic Objects and Classes](/notes/py-classes-basic.md)
 1. [Class Init](/notes/py-classes-init.md)
-1. [Modules](/notes/py-modules-create.md) -->
+1. [Modules](/notes/py-modules-create.md) --> -->
 
 ## Using Git
 
