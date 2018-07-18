@@ -2,6 +2,8 @@
 
 ## Welcome to programming!
 
+### [Opening exercise](/welcome.md)
+
 ## Intro
 
 1. Welcome to programming!
@@ -41,7 +43,7 @@
 1. [Terminal IO](/notes/py-io-terminal.md)
 1. Demo: [Greeting](/demos/greeting.md)
 1. Practice: [Space Dungeon Intro](/practice/spacedungeon-01.md)
-<!-- 1. [Comments](/notes/py-comments.md)
+1. [Comments](/notes/py-comments.md)
 1. [Basic Variable Naming](/notes/naming-variables-basic.md)
 1. [Python Style](/notes/py-style.md)
 1. [Module Docstrings](/notes/py-docstrings-module.md)
@@ -59,7 +61,7 @@
 1. [if/elif/else and Blocks](/notes/py-if-elif-else-blocks.md)
 1. [Continuations](/notes/py-continuations.md)
 1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
-1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
+<!-- 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 1. [Boolean Operators](/notes/py-operators-boolean.md)
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [While and For Loops](/notes/py-for-loops.md)

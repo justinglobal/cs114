@@ -1,6 +1,16 @@
 Welcome to class!
 
-Week 7 - cs114
+Week 2
+
+Open class github, terminal, slack, and brackets
+
+Opening exercise:
+
+Write a program that asks the user for their name and then tells them how many letters are in their name.
+
+Hint: Use the len() function to find the length of a string.
+
+<!-- Week 7 - cs114
 
 Thankful for Python
 
@@ -21,4 +31,4 @@ https://en.wikipedia.org/wiki/Central_processing_unit
 https://en.wikipedia.org/wiki/File:ABasicComputer.gif
 https://en.wikipedia.org/wiki/Memory_management_unit
 https://en.wikipedia.org/wiki/Page_table
-https://en.wikipedia.org/wiki/Physical_address
+https://en.wikipedia.org/wiki/Physical_address -->

@@ -3,11 +3,11 @@
 1. Week 1
     - Read Introduction
     - Short definition for Intro terms
-<!-- 1. Week 2
+1. Week 2
     - Read Chapter 1
     - Ch. 1 Problem Set
     - Ch. 1 terms
-1. Week 3
+<!-- 1. Week 3
     - Read Chapter 2
     - Define Ch. 2 terms
     - Ch. 2 Problem set #'s 1, 2, 4, 5, 6, 10, 11
