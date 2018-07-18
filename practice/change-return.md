@@ -1,6 +1,6 @@
 # Practice: Change Return
 
-Save your solution as `practice/change-return.py`.
+Save your solution as `changereturn.py`.
 
 Some supermarkets have automatic change dispensers.
 Let's write code that figures out how to divvy up an amount of change into the _fewest_ quarters, dimes, nickels, and pennies.
