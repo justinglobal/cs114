@@ -4,19 +4,19 @@
 
 programming
 
-source code
+<!-- source code -->
 
-if/else
+<!-- if/else -->
 
 python
 
 debugging
 
-strings
+<!-- strings -->
 
-web scraping
+<!-- web scraping -->
 
-interpreter
+<!-- interpreter -->
 
 IDE (interactive development environment)
 
@@ -24,7 +24,7 @@ interactive shell
 
 stack overflow
 
-<!-- ### Chapter 1
+### Chapter 1
 
 expression
 
@@ -34,9 +34,9 @@ operator
 
 evaluate
 
-precedence
+<!-- precedence -->
 
-data type
+<!-- data type -->
 
 integer (int)
 
@@ -56,11 +56,11 @@ assignment statement
 
 assignment operator
 
-initialize
+<!-- initialize -->
 
-overwrite
+<!-- overwrite -->
 
-file editor
+<!-- file editor -->
 
 terminate/exit
 
@@ -70,7 +70,7 @@ call/pass
 
 argument
 
-### Chapter 2
+<!-- ### Chapter 2
 
 flow control statements
 
