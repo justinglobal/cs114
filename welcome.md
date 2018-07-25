@@ -1,6 +1,13 @@
 Welcome to class!
 
-Week 2
+Open class github, terminal, slack, and brackets.
+
+Opening exercise:
+
+Do Individual Practice: [Madlib](/practice/madlib.md)
+
+
+<!-- Week 2
 
 Open class github, terminal, slack, and brackets
 
@@ -8,7 +15,7 @@ Opening exercise:
 
 Write a program that asks the user for their name and then tells them how many letters are in their name.
 
-Hint: Use the len() function to find the length of a string.
+Hint: Use the len() function to find the length of a string. -->
 
 <!-- Week 7 - cs114
 
