@@ -4,7 +4,7 @@ Open class github, terminal, slack, and brackets.
 
 Opening exercise:
 
-Do Individual Practice: [Madlib](/practice/madlib.md)
+Write a program that takes in input from a user and returns a response based on the length of string the user inputs.
 
 
 <!-- Week 2
