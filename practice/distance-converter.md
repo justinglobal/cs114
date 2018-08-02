@@ -15,6 +15,8 @@ Then print out the conversion as below.
 
 Start with converting Miles to Kilometers first.
 
+Next, allow the user the option to do another conversion. Something like, "Would you like to do another conversion? Type Yes or No"
+
 Then, support converting between `mi`, `km`, `ft`, and `m`.
 
 ## Advanced
