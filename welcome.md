@@ -4,7 +4,13 @@ Open class github, terminal, slack, and brackets.
 
 Opening exercise:
 
-Write a program that takes in input from a user and returns a response based on the length of string the user inputs.
+Space Dungeon!!
+
+Do Space Dungeon part 1 if you haven't already: [Space Dungeon Intro](/practice/spacedungeon-01.md)
+
+Then do part 2 here: Practice: [Space Dungeon Part 2](/practice/spacedungeon-02.md)
+
+<!-- Write a program that takes in input from a user and returns a response based on the length of string the user inputs. -->
 
 
 <!-- Week 2
