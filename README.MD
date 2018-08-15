@@ -87,7 +87,7 @@
 1. Practice 2: [Last join](/practice/last-join.md)
 1. Practice 3: [Case numbers](/practice/case-numbers.md)
 1. [Space Dungeon Version 3](/demos/spacedungeon/spacedungeon.py)
-<!-- 1. [If Expressions](/notes/py-if-expressions.md)
+1. [If Expressions](/notes/py-if-expressions.md)
 1. [List Comprehensions](/notes/py-lists-comprehensions.md)
 1. [Mutability](/notes/mutability.md)
 1. [Tuples](/notes/py-tuples.md)
