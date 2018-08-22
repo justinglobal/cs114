@@ -4,11 +4,13 @@ Open class github, terminal, slack, and brackets.
 
 Opening exercise:
 
-Space Dungeon!!
+Magic 8 Ball refactor with lists: https://github.com/justinglobal/cs114/blob/master/practice/magic8ball-list.md
 
-Do Space Dungeon part 1 if you haven't already: [Space Dungeon Intro](/practice/spacedungeon-01.md)
+Use functions and a list for your Magic 8 Ball program.
 
-Then do part 2 here: Practice: [Space Dungeon Part 2](/practice/spacedungeon-02.md)
+<!-- Do Space Dungeon part 1 if you haven't already: [Space Dungeon Intro](/practice/spacedungeon-01.md)
+
+Then do part 2 here: Practice: [Space Dungeon Part 2](/practice/spacedungeon-02.md) -->
 
 <!-- Write a program that takes in input from a user and returns a response based on the length of string the user inputs. -->
 
