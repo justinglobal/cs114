@@ -16,4 +16,4 @@ If there isn't an area code, drop that part.
 >
 > 555-1234
 
-<!-- [Source](/demos/phone-number.py) -->
+[Source](/demos/phone-number.py)
