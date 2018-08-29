@@ -122,7 +122,7 @@ local/global variable
 
 exception
 
-<!-- ### Chapter 4
+### Chapter 4
 
 list
 
@@ -152,4 +152,4 @@ key
 
 value
 
-key/value pair -->
+key/value pair

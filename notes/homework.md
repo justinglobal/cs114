@@ -22,6 +22,10 @@
     - Read Chapter 3
     - Define Ch. 3 terms
     - Ch. 3 problem set #'s 1, 3, 7
+1. Week 8
+    - Skim Chapter 4 and 5
+    - Define Ch. 4 and 5 Terms
+    - Do Ch. 4 problem set #'s 1-11
 <!-- 1. Week 7
     - Read Chapter 4
     - Define Ch. 4 terms
