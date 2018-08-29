@@ -4,9 +4,20 @@ Open class github, terminal, slack, and brackets.
 
 Opening exercise:
 
-Magic 8 Ball refactor with lists: https://github.com/justinglobal/cs114/blob/master/practice/magic8ball-list.md
+Make a program that uses a dictionary to store characters and their attributes
+for a game. Use the class github and textbook instructions to guide you.
 
-Use functions and a list for your Magic 8 Ball program.
+Your program should introduce itself, ask the user for name, character type,
+hit points, and magic points.
+
+Then print out the attributes the user chose, give them the option to change
+an attribute and then end.
+
+Save your file as character.py and send to instructor via slack.
+
+<!-- Magic 8 Ball refactor with lists: https://github.com/justinglobal/cs114/blob/master/practice/magic8ball-list.md
+
+Use functions and a list for your Magic 8 Ball program. -->
 
 <!-- Do Space Dungeon part 1 if you haven't already: [Space Dungeon Intro](/practice/spacedungeon-01.md)
 
