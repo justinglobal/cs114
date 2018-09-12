@@ -102,6 +102,16 @@
 1. [Class Init](/notes/py-classes-init.md)
 1. [Modules](/notes/py-modules-create.md)
 
+1. [Basic Objects and Classes](/notes/py-classes-basic.md)
+1. [Class Init](/notes/py-classes-init.md)
+1. [Data Design](/notes/py-classes-design.md)
+1. [Entity-Relation Diagrams](/notes/entity-relation.md)
+1. [Class String Representation](/notes/py-classes-repr.md)
+1. [Class Equality](/notes/py-classes-eq.md)
+1. [Value Classes](/notes/py-classes-value.md)
+1. [Modules](/notes/py-modules-create.md)
+1. Demo: [Rosters](/demos/rosters.md)
+
 ## Using Git
 
 1. [Version Control](/notes/version-control.md)

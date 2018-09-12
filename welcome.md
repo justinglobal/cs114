@@ -1,6 +1,18 @@
 Welcome to class!
 
-Open class github, terminal, slack, and brackets.
+Week 10 is here!!
+
+Classes investigation: Let's try to use Classes!
+
+Make a "Player" Class that has an __init__ and a __repr__ constructor function.
+
+Give the "Player" Class basic attributes like HP, MP, AP, and DP.
+
+Then make a function that updates the players HP.
+
+If you like it, try implementing it into your code.
+
+<!-- Open class github, terminal, slack, and brackets.
 
 Opening exercise:
 
@@ -13,7 +25,7 @@ hit points, and magic points.
 Then print out the attributes the user chose, give them the option to change
 an attribute and then end.
 
-Save your file as character.py and send to instructor via slack.
+Save your file as character.py and send to instructor via slack. -->
 
 <!-- Magic 8 Ball refactor with lists: https://github.com/justinglobal/cs114/blob/master/practice/magic8ball-list.md
 
